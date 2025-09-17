@@ -1,6 +1,7 @@
 # Python Assignments – Tutedude
 
-This repository contains my solutions for the **Tutedude Python Course Assignments**
+This repository contains my solutions for the **Tutedude Python Course Assignments**.  
+Each folder corresponds to a specific assignment module, and inside you’ll find separate tasks with Python scripts.
 
 ---
 
@@ -18,7 +19,6 @@ This repository contains my solutions for the **Tutedude Python Course Assignmen
 
 **File:** `Assignment_1/task_1.py`
 
----
 
 ### Task 2: Create a Personalized Greeting  
 - Takes first name and last name as input from the user.  
@@ -29,21 +29,29 @@ This repository contains my solutions for the **Tutedude Python Course Assignmen
 
 ---
 
+## 📌 Assignment 2  
+**Module 3: Control Structures in Python**
+
+### Task 1: Check if a Number is Even or Odd  
+- Takes an integer input from the user.  
+- Checks whether the number is even or odd using an `if-else` statement.  
+- Displays the result accordingly.  
+
+**File:** `Assignment_2/task_1.py`
+
+### Task 2: Sum of Integers from 1 to 50 Using a Loop  
+- Uses a `for` loop to iterate over numbers from 1 to 50.  
+- Calculates the sum of all integers in this range.  
+- Displays the final sum.  
+
+**File:** `Assignment_2/task_2.py`
+
+---
+
 ## 🛠️ How to Run
 1. Clone this repository:  
    ```bash
    git clone https://github.com/pradipNP/python-assignments-tutedude.git
 
-2. Navigate to the assignment folder:
-  ```bash
-  cd python-assignments-tutedude/Assignment_1
-```
-3. Run the scripts:
-  ```bash
-  python task_1.py
-  python task_2.py
-```
-
-📺 Reference
-- [Tutedude Course – Module 2: Basic Python Concepts](https://upskill.tutedude.com/course/lecture-python)
-- All programs are tested and verified before submission.
+📺 Reference:  
+[Tutedude Course](https://upskill.tutedude.com/course/lecture-python)
