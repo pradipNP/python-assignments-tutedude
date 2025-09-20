@@ -48,6 +48,28 @@ Each folder corresponds to a specific assignment module, and inside you’ll fin
 
 ---
 
+## 📌 Assignment 3  
+**Module 4: Functions & Modules in Python**
+
+### Task 1: Calculate Factorial Using a Function  
+- Defines a function `factorial(n)` that calculates the factorial of a number.  
+- Uses a loop or recursion to compute the factorial.  
+- Returns the result and prints it when called.  
+
+**File:** `Assignment_3/task_1.py`
+
+### Task 2: Using the Math Module for Calculations  
+- Asks the user for a number.  
+- Uses the `math` module to calculate:  
+  - Square root of the number  
+  - Natural logarithm (log base e)  
+  - Sine of the number (in radians)  
+- Displays the calculated results clearly.  
+
+**File:** `Assignment_3/task_2.py`
+
+---
+
 ## 🛠️ How to Run
 1. Clone this repository:  
    ```bash
