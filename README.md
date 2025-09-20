@@ -70,6 +70,25 @@ Each folder corresponds to a specific assignment module, and inside you’ll fin
 
 ---
 
+## 📌 Assignment 4  
+**Module 5: Files, Exceptions & Errors in Python**
+
+### Task 1: Read a File and Handle Errors  
+- Reads content from `sample.txt` line by line using `readlines()`.  
+- Displays the content with line numbers.  
+- Handles errors gracefully if the file does not exist.  
+
+**File:** `Assignment_4/task_1.py`
+
+### Task 2: Write and Append Data to a File  
+- Takes user input and writes it to a file `output.txt`.  
+- Appends additional user input to the same file.  
+- Reads and displays the final content of the file.  
+
+**File:** `Assignment_4/task_2.py`
+
+---
+
 ## 🛠️ How to Run
 1. Clone this repository:  
    ```bash
