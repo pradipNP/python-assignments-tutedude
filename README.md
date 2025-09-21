@@ -89,6 +89,27 @@ Each folder corresponds to a specific assignment module, and inside you’ll fin
 
 ---
 
+## 📌 Assignment 5  
+**Module 6: Data Structures & Strings in Python**
+
+### Task 1: Create a Dictionary of Student Marks  
+- Creates a dictionary where student names are keys and marks are values.  
+- Takes a student's name as input.  
+- Retrieves and displays the marks if the name exists.  
+- If not found, displays an appropriate message.  
+
+**File:** `Assignment_5/task_1.py`
+
+### Task 2: Demonstrate List Slicing  
+- Creates a list of numbers from 1 to 10.  
+- Extracts the first five elements.  
+- Reverses the extracted list (using `.reverse()` or slicing).  
+- Prints both the extracted list and the reversed list.  
+
+**File:** `Assignment_5/task_2.py`
+
+---
+
 ## 🛠️ How to Run
 1. Clone this repository:  
    ```bash
